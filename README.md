@@ -1,5 +1,5 @@
 # css-in-js
-CSS in JS techniques comparison. Inspired by [https://github.com/MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js).
+CSS in JS techniques - Version and Downloads.. Inspired by [https://github.com/MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js).
 
 | Package | Version | Downloads | 
 |---------|:-------:|:---------:|
